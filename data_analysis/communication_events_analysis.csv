@@ -1,0 +1,13 @@
+Complexity,Agent_Config,Avg_Communication_Events,Std_Communication_Events,Raw_Communication_Counts
+Easy,TwoAgents,73.33,9.03,"[63, 72, 85]"
+Easy,ThreeAgents,69.67,22.4,"[86, 38, 85]"
+Easy,FourAgents,63.67,9.1,"[68, 72, 51]"
+Easy,FiveAgents,61,17.45,"[44, 54, 85]"
+Hard,TwoAgents,24.67,10.14,"[18, 17, 39]"
+Hard,ThreeAgents,26.33,5.31,"[33, 26, 20]"
+Hard,FourAgents,27.67,4.78,"[30, 32, 21]"
+Hard,FiveAgents,31.33,6.94,"[28, 25, 41]"
+Medium,TwoAgents,29.67,0.94,"[29, 31, 29]"
+Medium,ThreeAgents,35.33,18.19,"[24, 21, 61]"
+Medium,FourAgents,32.33,2.87,"[32, 36, 29]"
+Medium,FiveAgents,42,12.03,"[39, 58, 29]"
